@@ -1,0 +1,405 @@
+title,company,location,description,experience,skills,tools
+Global People Analytics Analyst - Data Engineering,Boston Consulting Group,"Gurugram, Haryana, India","Who We Are
+
+Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we help clients with total transformation-inspiring complex change, enabling organizations to grow, building competitive advantage, and driving bottom-line impact.
+
+To succeed, organizations must blend digital and human capabilities. Our diverse, global teams bring deep industry and functional expertise and a range of perspectives to spark change. BCG delivers solutions through leading-edge management consulting along with technology and design, corporate and digital ventures—and business purpose. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, generating results that allow our clients to thrive.
+
+What You'll Do
+
+As a Data Engineer, you will play a crucial role in designing, building, and maintaining the data
+
+infrastructure and systems required for efficient and reliable data processing. You will
+
+collaborate with cross-functional teams, including data scientists, analysts, to ensure the
+
+availability, integrity, and accessibility of data for various business needs. This role requires a
+
+strong understanding of data management principles, database technologies, data integration,
+
+and data warehousing concepts.
+
+Key Responsibilities
+
+· Develop and maintain data warehouse solutions, including data modeling, schema
+
+design, and indexing strategies
+
+· Optimize data processing workflows for improved performance, reliability, and
+
+scalability
+
+· Identify and integrate diverse data sources, both internal and external, into a
+
+centralized data platform
+
+· Implement and manage data lakes, data marts, or other storage solutions as required
+
+· Ensure data privacy and compliance with relevant data protection regulations
+
+· Define and implement data governance policies, standards, and best practices
+
+· Transform raw data into usable formats for analytics, reporting, and machine
+
+learning purposes
+
+· Perform data cleansing, normalization, aggregation, and enrichment operations to
+
+enhance data quality and usability
+
+· Collaborate with data analysts and data scientists to understand data requirements
+
+and implement appropriate data transformations
+
+What You'll Bring
+
+· Bachelor's or Master's degree in Computer Science, Data Science, Information
+
+Systems, or a related field
+
+· Proficiency in SQL and experience with relational databases (e.g., Snowflake, MySQL,
+
+PostgreSQL, Oracle)
+
+· 3+ years of experience in data engineering or a similar role
+
+· Hands-on programming skills in languages such as Python or Java is a plus
+
+· Familiarity with cloud-based data platforms (e.g., AWS, Azure, GCP) and related
+
+services (e.g., S3, Redshift, BigQuery) is good to have
+
+· Knowledge of data modeling and database design principles
+
+· Familiarity with data visualization tools (e.g., Tableau, Power BI) is a plus
+
+· Strong problem-solving and analytical skills with attention to detail
+
+· Experience with HR data analysis and HR domain knowledge is preferred
+
+Who You'll Work With
+
+As part of the People Analytics team, you will modernize HR platforms, capabilities &
+
+engagement, automate/digitize core HR processes and operations and enable greater
+
+efficiency. You will collaborate with the global people team and colleagues across BCG to
+
+manage the life cycle of all BCG employees.
+
+The People Management Team (PMT) is comprised of several centers of expertise including
+
+HR Operations, People Analytics, Career Development, Learning & Development, Talent
+
+Acquisition & Branding, Compensation, and Mobility. Our centers of expertise work together
+
+to build out new teams and capabilities by sourcing, acquiring and retaining the best, diverse
+
+talent for BCG’s Global Services Business.
+
+We develop talent and capabilities, while enhancing managers’ effectiveness, and building
+
+affiliation and engagement in our new global offices. The PMT also harmonizes process
+
+efficiencies, automation, and global standardization. Through analytics and digitalization, we
+
+are always looking to expand our PMT capabilities and coverage
+
+Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws.
+
+BCG is an E - Verify Employer. Click here for more information on E-Verify.",,,
+"Data Engineer Lead Job in Hyderabad, India",Virtusa,"Hyderabad, Telangana, India","We are seeking a Data Engineer with strong expertise in SQL and ETL processes to support banking data quality data pipelines, regulatory reporting, and data quality initiatives. The role involves building and optimizing data structures, implementing validation rules, and collaborating with governance and compliance teams. Experience in the banking domain and tools like Informatica and Azure Data Factory is essential. Strong proficiency in SQL for writing complex queries, joins, data transformations, and aggregationsProven experience in building tables, views, and data structures within enterprise Data Warehouses and Data LakesStrong understanding of data warehousing concepts, such as Slowly Changing Dimensions (SCDs), data normalization, and star/snowflake schemasPractical experience in Azure Data Factory (ADF) for orchestrating data pipelines and managing ingestion workflows Exposure to data cataloging, metadata management, and lineage tracking using Informatica EDC or AxonExperience implementing Data Quality rules for banking use cases such as completeness, consistency, uniqueness, and validityFamiliarity with banking systems and data domains such as Flexcube, HRMS, CRM, Risk, Compliance, and IBG reportingUnderstanding of regulatory and audit readiness needs for Central Bank and internal governance forums Write optimized SQL scripts to extract, transform, and load (ETL) data from multiple banking source systemsDesign and implement staging and reporting layer structures, aligned to business requirements and regulatory frameworksApply data validation logic based on predefined business rules and data governance requirementsCollaborate with Data Governance, Risk, and Compliance teams to embed lineage, ownership, and metadata into datasetsMonitor scheduled jobs and resolve ETL failures to ensure SLA adherence for reporting and operational dashboardsSupport production deployment, UAT sign off, and issue resolution for data products across business units 3 to 6 years in banking-focused data engineering roles with hands on SQL, ETL, and DQ rule implementationBachelors or Master's Degree in Computer Science, Information Systems, Data Engineering, or related fieldsBanking domain experience is mandatory, especially in areas related to regulatory reporting, compliance, and enterprise data governance",3 to 6 years,"SQL, ETL, Data Warehousing, Data Normalization, Star/Snowflake Schemas, Data Quality, Data Governance","Informatica, Azure Data Factory, Axon, Flexcube, HRMS, CRM, Informatica EDC"
+Senior Data Engineer,Mastercard,"Pune, Maharashtra, India","Job Title:
+
+Senior Data Engineer
+
+Overview:
+
+Position Overview:
+
+The Senior Data Engineer, MyMPA will be part of GBSC’s Automation & Engineering Team, responsible for implementing enhancements and periodic refreshes of an enterprise-wide data platform.
+
+This role will also work closely with the VP of Analytics & Metrics and Director of FP&A and gather requirements for changes and enhancements to the application and contribute to the technology platform's evolution as it grows to support the rapidly expanding Mastercard business.
+
+The ideal candidate will have hands-on development skills combined with an ability to analyze and understand end user requirements that are critical success factors within this role. This role requires the skills and desire to work as an individual contributor as well as, collaborate cross functionally with various business constituents.
+
+1. Have you ever worked on an enterprise-wide reporting solution that relied heavily on your own knowledge and abilities to build and maintain the solution?
+2. Are you constantly hungry to learn? Do you have the “growth mindset” as opposed to the “fixed mindset”?
+3. Do you love working with people, helping them, and turning their requirements into something that can make a difference?
+
+Role:
+
+• Skilled at writing performant and reliable SQL queries to source data from Centralized data repositories such as a Data Warehouse.
+• Proficient at designing and developing Relational and Multi-dimensional Databases to host the sourced data and work with Tableau and Power BI developers within and outside the team to support reporting and dashboarding needs of the organization.
+• Develop ETL workflows and macros in Alteryx to source data for projects and build high-level and detailed data validations to ensure accuracy of the sourced data
+• Contribute to initiatives aimed at automating the data extraction, application of data quality checks to ensure datasets are released on time and with 100% accuracy.
+• Develop technical components to ensure department’s compliance with audit requirements such as SOX and other statutory/audit requirements as applicable from time to time.
+• Organize and lead discussions with customers to brainstorm on data quality issues and contribute to discussions to devise business rules to address data quality issues
+• Use MS-Excel and MS-PPT to capture findings and present to customers in an easy-to-understand and impactful manner
+• Liaison with the internal groups in MasterCard Operations and Technology to ensure our solutions remain in compliance with MasterCard technical standards. Navigate O&T requirements around change management and new development.
+
+All About You:
+
+• Strong understanding of Windows and Linux server.
+• Good understanding of SQL Server or Oracle DB.
+• Solid understanding of Essbase technology – understand how this technology works, for both BSO
+and ASO cubes.
+• Develop BSO and ASO cubes with a strong eye for performance.
+• Strong commitment to quality and error testing code you develop. Strong ability to step in and analyze the code of others on the team.
+• Be able to work within an Agile environment that is highly responsive to the business. Our team is part of the Finance organization – you must be comfortable with working as part of the business with a strong “roll up your sleeves” mentality.",Senior,"SQL, Relational Databases, Multi-dimensional Databases, ETL, Data Quality, Agile, Analysis","Tableau, Power BI, Alteryx, MS-Excel, MS-PPT, SQL Server, Oracle DB, Essbase"
+Engineer III Consultant-Data Engineering,Verizon,"Hyderabad, Telangana, India (+2 others)","When you join Verizon
+
+You want more out of a career. A place to share your ideas freely — even if they’re daring or different. Where the true you can learn, grow, and thrive. At Verizon, we power and empower how people live, work and play by connecting them to what brings them joy. We do what we love — driving innovation, creativity, and impact in the world. Our V Team is a community of people who anticipate, lead, and believe that listening is where learning begins. In crisis and in celebration, we come together — lifting our communities and building trust in how we show up, everywhere & always. Want in? Join the #VTeamLife.
+
+What you’ll be doing…
+
+We are looking for data engineers who can work with world class team members to help drive telecom business to its full potential. We are building data products / assets for telecom wireless and wireline business which includes consumer analytics, telecom network performance and service assurance analytics etc. We are working on cutting edge technologies like digital twin to build these analytical platforms and provide data support for varied AI ML implementations.
+
+As a data engineer you will be collaborating with business product owners, coaches, industry renowned data scientists and system architects to develop strategic data solutions from sources which includes batch, file and data streams
+
+As a Data Engineer with ETL/ELT expertise for our growing data platform & analytics teams, you will understand and enable the required data sets from different sources both structured and unstructured data into our data warehouse and data lake with real-time streaming and/or batch processing to generate insights and perform analytics for business teams within Verizon.
+• Understanding the business requirements and converting them to technical design.
+• Working on Data Ingestion, Preparation and Transformation.
+• Developing data streaming applications.
+• Debugging the production failures and identifying the solution.
+• Working on ETL/ELT development.
+• Understanding devops process and contributing for devops pipelines
+
+What we’re looking for...
+
+You’re curious about new technologies and the game-changing possibilities it creates. You like to stay up-to-date with the latest trends and apply your technical expertise to solving business problems.
+
+You’ll need to have…
+• Bachelor’s degree or four or more years of work experience.
+• Four or more years of relevant work experience.
+• Experience with Data Warehouse concepts and Data Management life cycle.
+• Experience in Big Data technologies - GCP/Hadoop/Spark/Composer/DataFlow/Bigquery.
+• Experience in complex SQL.
+• Experience working on Streaming ETL pipelines
+• Expertise in Java
+• Experience with MemoryStore / Redis / Spanner
+• Experience in troubleshooting the data issues.
+• Experience with data pipeline and workflow management & Governance tools.
+• Knowledge of Information Systems and their applications to data management processes.
+
+Even better if you have one or more of the following…
+• Three or more years of relevant experience.
+• Any relevant Certification on ETL/ELT developer.
+• Certification in GCP-Data Engineer.
+• Accuracy and attention to detail.
+• Good problem solving, analytical, and research capabilities.
+• Good verbal and written communication.
+• Experience presenting to and influence stakeholders.
+• Experience in driving a small team of 2 or more members for technical delivery
+
+#AI&D
+
+Where you’ll be working
+In this hybrid role, you'll have a defined work location that includes work from home and assigned office days set by your manager.
+
+Scheduled Weekly Hours
+40
+
+Equal Employment Opportunity
+
+Verizon is an equal opportunity employer. We evaluate qualified applicants without regard to race, gender, disability or any other legally protected characteristics.",4+ years,"ETL/ELT, Java, SQL, Data Management, Data Analytics, AI, ML, DevOps","GCP, Hadoop, Spark, Composer, DataFlow, Bigquery, MemoryStore, Redis, Spanner"
+Sr. Data and AI Engineer,Philips,"Bengaluru, Karnataka, India","Job Title
+Sr. Data and AI Engineer
+
+Job Description
+
+Your role:
+• Analyzes complex datasets to identify key trends, patterns, and potential data quality issues that could impact model performance or downstream analytics, working under general supervision.
+• Develops and implements efficient data pipelines to extract, transform, and load data from various sources, ensuring data integrity, consistency, and adherence to data governance standards.
+• Deploys machine learning and AI models in production environments and develops approaches for AI DevOps, adhering to best practices for security, scalability, and model explainability which may involve containerization and orchestration for robust deployments.
+• Monitors and maintains data pipelines and AI models, proactively identifying and resolving performance bottlenecks or potential issues to ensure continuous functionality and optimal model performance.
+• Documents data pipelines, models, and processes thoroughly, ensuring clarity, maintainability, and effective knowledge transfer within the team. This documentation should be tailored for both technical and non-technical audiences.
+• Troubleshoots data quality problems, performs root cause analysis to identify the source of data quality issues and collaborate with data scientists to design and implement effective solutions.
+• Communicates effectively technical findings and insights to both technical and non-technical audiences, tailoring communication style and detail level to the specific audience.
+• Learns and adapts skillset by staying up-to-date on the latest advancements in data engineering and AI technologies, explores new tools and techniques to improve ability to deliver efficient and impactful data solutions.
+• Works with business teams to understand their data needs and challenges and collaborates with data scientists to translate those needs into well-defined technical requirements and actionable data solutions.
+• Supports data scientists throughout the entire AI lifecycle by preparing data for analysis, building and optimizing data infrastructure for specific needs, and automating data workflows to streamline the model development process.
+
+Minimum required Education:
+Bachelor's / Master's Degree in Computer Science, Information Management, Data Science, Econometrics, Artificial Intelligence, Applied Mathematics, Statistics or equivalent.
+
+Minimum required Experience:
+Minimum 2 years of experience with Bachelor's in areas such as Data Handling, Data Analytics, AI Modeling or equivalent OR no prior experience required with Master's Degree.
+
+Preferred Experience:
+10 years + Experience in using programming languages such as Python, R, JAVA, C/C++
+
+Preferred Certification:
+Artificial Intelligence Board of America (ARTiBA) certified
+
+How we work together
+
+We believe that we are better together than apart. For our office-based teams, this means working in-person at least 3 days per week.
+this role is an office role.
+
+About Philips
+We are a health technology company. We built our entire company around the belief that every human matters, and we won't stop until everybody everywhere has access to the quality healthcare that we all deserve. Do the work of your life to help the lives of others.
+• Learn more about our business.
+• Discover our rich and exciting history.
+• Learn more about our purpose.
+If you’re interested in this role and have many, but not all, of the experiences needed, we encourage you to apply. You may still be the right candidate for this or other opportunities at Philips. Learn more about our culture of impact with care here.
+
+#LI-EU
+
+#LI-Hybrid
+
+#LI-PHILIN",2-10 years,"machine learning, AI, data engineering, data analytics, data science, python, R, JAVA, C/C++, AI DevOps, containerization, orchestration",
+Data Engineer  IRC265240,Hitachi Careers,"Hyderabad, Telangana, India","Description
+
+GL
+
+Requirements
+
+Total of 4-6 years of development/design experience with a minimum of 3 years experience in Big Data technologies on-prem and on cloud.
+Proficiency in Snowflake and strong SQL programming skills.
+Strong experience with data modeling and schema design.
+Extensive experience in using Data warehousing tool like Snowflake/BigQuery/RedShift.
+Extensive experience with BI Tools like Tableau/QuickSight/PowerBI. At least one must have.
+Must have experience with orchestration tools like Airflow and transformation tool DBT.
+Strong Experience implementing ETL/ELT processes and building data pipelines including workflow management, job scheduling and monitoring
+Good understanding of Data Governance, Security and Compliance, Data Quality, Metadata Management, Master Data Management, Data Catalog
+Strong understanding of cloud services (AWS), including IAM and log analytics.
+Excellent interpersonal and teamwork skills
+Experience with leading and mentorship of other team members
+Good knowledge of Agile Scrum
+Good communication skills
+
+Job responsibilities
+
+Same as above
+
+What we offer
+
+Culture of caring. At GlobalLogic, we prioritize a culture of caring. Across every region and department, at every level, we consistently put people first. From day one, you'll experience an inclusive culture of acceptance and belonging, where you'll have the chance to build meaningful connections with collaborative teammates, supportive managers, and compassionate leaders.
+
+Learning and development. We are committed to your continuous learning and development. You'll learn and grow daily in an environment with many opportunities to try new things, sharpen your skills, and advance your career at GlobalLogic. With our Career Navigator tool as just one example, GlobalLogic offers a rich array of programs, training curricula, and hands-on opportunities to grow personally and professionally.
+
+Interesting & meaningful work. GlobalLogic is known for engineering impact for and with clients around the world. As part of our team, you'll have the chance to work on projects that matter. Each is a unique opportunity to engage your curiosity and creative problem-solving skills as you help clients reimagine what's possible and bring new solutions to market. In the process, you'll have the privilege of working on some of the most cutting-edge and impactful solutions shaping the world today.
+
+Balance and flexibility. We believe in the importance of balance and flexibility. With many functional career areas, roles, and work arrangements, you can explore ways of achieving the perfect balance between your work and life. Your life extends beyond the office, and we always do our best to help you integrate and balance the best of work and life, having fun along the way!
+
+High-trust organization. We are a high-trust organization where integrity is key. By joining GlobalLogic, you're placing your trust in a safe, reliable, and ethical global company. Integrity and trust are a cornerstone of our value proposition to our employees and clients. You will find truthfulness, candor, and integrity in everything we do.
+
+About GlobalLogic
+
+GlobalLogic, a Hitachi Group Company, is a trusted digital engineering partner to the world's largest and most forward-thinking companies. Since 2000, we've been at the forefront of the digital revolution - helping create some of the most innovative and widely used digital products and experiences. Today we continue to collaborate with clients in transforming businesses and redefining industries through intelligent products, platforms, and services.",4-6 years,"SQL, Data Modeling, ETL/ELT, Data Governance, Security, Compliance, Data Quality, Metadata Management, Master Data Management, Data Catalog, Agile Scrum","Snowflake, BigQuery, RedShift, Tableau, QuickSight, PowerBI, Airflow, DBT, AWS, IAM"
+Data Engineer II Development,Thermo Fisher Scientific,"Bengaluru, Karnataka, India","Work Schedule
+Standard (Mon-Fri)
+
+Environmental Conditions
+Office
+
+Job Description
+
+Job Title –Data Engineer II, Development
+
+Job Location: Bangalore, India
+About Company:
+
+Thermo Fisher Scientific Inc. is the world leader in serving science, with revenues of more than $40 billion and approximately 1,20,000 employees globally. Our Mission is to enable our customers to make the world healthier, cleaner, and safer. We help our customers accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics, deliver medicines to market and increase laboratory productivity.
+
+About Team: We are Automation, AI and Data (AAD) team that caters to data engineering and analytics, automation and AI solutions for various groups and divisions within Thermo fisher Scientific.
+
+What will you do?
+
+As a data engineer, you will play a key role in strengthening our data engineering capabilities delivering data engineering pipelines and solutions through Enterprise Data Platform (EDP) for various groups and divisions.
+General Job Functions
+• Perform source to target data analysis and mappings.
+• Build, test, and optimize data pipelines for various use-cases, including real-time and batch processing, based on specific requirements.
+• Collaborate with admins, developers, data engineers and analysts for successful functionality delivery
+• Perform requirement analysis and co-ordinate with project managers and development team to drive the delivery cycle.
+• Collaborate with the scrum master on product backlogs and helps with sprint planning.
+• Supports the evolution of EDP architecture and takes part in roadmap activities around data platform architecture initiatives or changes.
+• Collaborate with leadership and stakeholders to ensure data quality and integrity in DWH & AWS platforms for BI/Analytical reporting.
+• Pre-meditate any risks well in advance and communicate to stakeholders to formulate the plan of action to mitigate any risks.
+• Follow agile development methodologies to deliver solutions and product features by following DevOps practices.
+• Ensure the teams follow the prescribed development processes and approaches.
+Must have skills and experience
+• 4+ years of exclusive experience in delivering data solutions.
+• 3+ years of proficient experience in building data pipelines in Databricks.
+• 3+ years of proven experience building Cloud BI solutions using AWS or Azure.
+• Experience with agile development methodologies by following DevOps, Data Ops and Dev Sec Ops practices.
+• 3+ years of programming in SQL, Pyspark and Python.
+• Excellent written, verbal and interpersonal and partner communication skills.
+• Excellent Analysis and business requirement documentation skills.
+• Ability to work with multi-functional teams from multiple regions/ time zones by optimally demonstrating multi-form communication (Email, MS Teams for voice and chat, meetings)
+• Excellent prioritization and problem-solving skills.
+Good to have skills
+• Relevant certifications in data engineering on cloud platforms.
+• Good understanding of machine learning and Generative AI concepts.
+• Hands on experience with Snowflake or Azure data engineering.
+• Knowledge of SQL and NoSQL databases like PostgreSQL, MySQL, MongoDB Cassandra.
+• Data visualization experience using tools such as Power BI or Tableau.
+• Knowledge of data governance practices, data quality, and data security.
+
+Our Mission is to enable our customers to make the world healthier, cleaner, and safer. Watch as our colleagues explain 5 reasons to work with us. As one team of 1,20,000 colleagues, we share a common set of values - Integrity, Intensity, Innovation and Involvement - working together to accelerate research, solve complex scientific challenges, drive technological innovation and support patients in need.
+
+ThermoFisher Scientific is an EEO/Affirmative Action Employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other legally protected status.",4+ years,"agile development methodologies, DevOps, Data Ops, Dev Sec Ops, SQL, Pyspark, Python, machine learning, Generative AI, data governance, data quality, data security","Databricks, AWS, Azure, Snowflake, PostgreSQL, MySQL, MongoDB, Cassandra, Power BI, Tableau"
+Data Engineer,Advance Auto Parts,"Telangana, India","Job Description
+
+WHO WE ARE 
+
+Come join our Technology Team and start reimagining the future of the automotive aftermarket. We are a highly motivated tech-focused organization, excited to be amid dynamic innovation and transformational change. Driven by Advance’s top-down commitment to empowering our team members, we are focused on delighting our Customers with Care and Speed, through delivery of world class technology solutions and products.  
+
+We value and cultivate our culture by seeking to always be collaborative, intellectually curious, fun, open, and diverse.   You will be a key member of a growing and passionate group focused on collaborating across business and technology resources to drive forward key programs and projects building enterprise capabilities across Advance Auto Parts.  
+
+THE OPPORTUNITY:
+
+Join the AAP team and start reimagining the future of automotive retail. Disrupt the way consumers buy auto parts and take on the industry’s biggest challengers to execute on AAP's top-down commitment to digital expansion. 
+
+As a member of the Advance Auto Parts team, you will have an opportunity to disrupt a $150B auto parts industry to bring better and faster solutions to customers. You will be part of a team helping the company live its mission of “Advancing a World in Motion”. The role is part of a merit-based organization with a culture of professional growth and development, and emphasis on the latest tools, platforms and technologies. 
+
+Responsibilities:
+• Lead the migration and modernization of data platforms, moving applications and pipelines to Google Cloud-based solutions.
+• Architect and maintain cloud-based data infrastructure leveraging AWS or GCP services.
+• Ensure data security and governance, enforcing compliance with industry standards and regulations.
+• Develop and promote best practices for data modeling, processing, and analytics. Mentor and guide a team of data engineers, fostering a culture of innovation and technical excellence.
+• Manage and scale data pipelines from internal and external data sources to support new product launches and ensure high data quality.
+• Develop automation and monitoring frameworks to capture key metrics and operational KPIs for pipeline performance.
+• Collaborate with internal teams, including data science and product teams, to drive solutioning and proof-of-concept (PoC) discussions.
+• Develop and optimize procedures to transition data into production.
+• Define and manage SLAs for data products and operational processes.
+• Research and apply state-of-the-art methodologies in data and Platform engineering.
+• Create and maintain technical documentation for sharing knowledge.
+• Develop reusable packages and libraries to enhance development efficiency.
+• Lead and drive the development and optimization of scalable data architectures and pipelines.
+• Develop real-time and batch data processing solutions, integrating structured and unstructured data sources.
+
+Required Qualification:
+• We are looking for a candidate with 5-8 years of experience in Data Engineering and Application development. They must have a graduate degree in Computer Science or a related field of study. They must have experience with programming languages such as Python, Java & DS&Algo, Spark, and Scala. Expertise in Python and Spark is a must.
+• 2 + years of AWS and Cloud technologies. Experience in data platform engineering, with a focus on cloud transformation and modernization.
+• Hands-on experience building large, scaled data pipelines in cloud environments and handling of data in PBs.
+• Experience with CI/CD pipeline management in GCP DevOps.
+• Understanding of data governance, security, and compliance best practices.
+• Experience working in an Agile development environment.
+• Prior experience in migrating applications from legacy platforms to the cloud.
+• Knowledge of Terraform or Infrastructure-as-Code (IaC) for cloud resource management.
+• Familiarity with Kafka, Event Hubs, or other real-time data streaming solutions.
+• Experience with legacy RDBMS (Oracle, DB2, Teradata) & DataStage/Talend
+• Having background supporting data science models in production.
+
+California Residents click below for Privacy Notice:
+https://jobs.advanceautoparts.com/us/en/disclosures",5-8 years,"Python, Java, DS&Algo, Spark, Scala","AWS, GCP, GCP DevOps, Terraform, Kafka, Event Hubs, Oracle, DB2, Teradata, DataStage/Talend"
+Senior Analytics Data Engineer,"Okta, Inc.","Bengaluru, Karnataka, India","Get to know OktaOkta is The World’s Identity Company. We free everyone to safely use any technology, anywhere, on any device or app. Our flexible and neutral products, Okta Platform and Auth0 Platform, provide secure access, authentication, and automation, placing identity at the core of business security and growth.At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - we’re looking for lifelong learners and people who can make us better with their unique experiences. Join our team! We’re building a world where Identity belongs to you.Senior Analytics Engineer
+We are looking for an experienced Analytics Engineer to join Okta’s enterprise data team. This analyst will have strong background in SaaS subscription and product analytics, a passion for providing customer usage insights to internal stakeholders, and experience organizing complex data into consumable data assets. In this.",experienced,"SaaS subscription, product analytics",
+Senior Azure Data Engineer,DXC Technology,"Bengaluru, Karnataka, India","Job Description:
+
+Senior Azure Data Engineer
+
+Job Location : Hyderabad / Bangalore / Chennai / Kolkata / Noida/ Gurgaon / Pune / Indore / Mumbai
+• At least 5+ years’ of relevant hands on development experience as Azure Data Engineering role
+• Proficient in Azure technologies like ADB, ADF, SQL(capability of writing complex SQL queries), ADB, PySpark, Python, Synapse, Delta Tables, Unity Catalog
+• Hands on in Python, PySpark or Spark SQL
+• Hands on in Azure Analytics and DevOps
+• Taking part in Proof of Concepts (POCs) and pilot solutions preparation
+• Ability to conduct data profiling, cataloguing, and mapping for technical design and construction of technical data flows
+• Experience in business processing mapping of data and analytics solutions
+
+At DXC Technology, we believe strong connections and community are key to our success. Our work model prioritizes in-person collaboration while offering flexibility to support wellbeing, productivity, individual work styles, and life circumstances. We’re committed to fostering an inclusive environment where everyone can thrive.
+
+Recruitment fraud is a scheme in which fictitious job opportunities are offered to job seekers typically through online services, such as false websites, or through unsolicited emails claiming to be from the company. These emails may request recipients to provide personal information or to make payments as part of their illegitimate recruiting process. DXC does not make offers of employment via social media networks and DXC never asks for any money or payments from applicants at any point in the recruitment process, nor ask a job seeker to purchase IT or other equipment on our behalf. More information on employment scams is available here.",5+ years,"Azure technologies, SQL, PySpark, Python, Spark SQL, data profiling, cataloguing, mapping, business processing","Azure Data Engineering, ADB, ADF, Azure Analytics, DevOps, Synapse, Delta Tables, Unity Catalog"
