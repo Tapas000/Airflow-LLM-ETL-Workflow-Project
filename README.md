@@ -3,7 +3,7 @@
 This project demonstrates an end-to-end ETL pipeline to extract, enrich, and store job listings using **Apache Airflow**, **SerpAPI**, **Large Language Models (LLMs)**, and **PostgreSQL**.
 
 ---
-
+<img width="1072" height="552" alt="image" src="https://github.com/user-attachments/assets/97877084-c7d4-4756-95f2-49532e40dd78" />
 ## 🚀 Overview
 
 This pipeline:
